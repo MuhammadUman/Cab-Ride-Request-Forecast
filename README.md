@@ -15,9 +15,15 @@ season
 weather
 
 Clear, Few clouds, Partly cloudy, Partly cloudy
+
 Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+
 Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+
 Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
-casual - number of non-registered user rentals initiated
-registered - number of registered user rentals initiated
-count - number of ride request raised on the app for that particular hour.
+
+"casual" - number of non-registered user rentals initiated
+
+"registered" - number of registered user rentals initiated
+
+"count" - number of ride request raised on the app for that particular hour.
